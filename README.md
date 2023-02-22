@@ -18,9 +18,13 @@ You can run the node with Docker and the rest of the app on your local machine, 
 1. Create root dir:
 
 ```git clone https://github.com/daGoodenough/learn-btc-wallet.git```
+
 2. From cloned repo
+
 ```git clone https://github.com/daGoodenough/docker-bitcoin```
+
 3. Build docker-bitcoin
+
 4. From here you can use the compose file in the docker-bitcoin folder to run BTC Core alone.\n
 Or user the compose file in the root dir to orchestrate the whole app.
 
